@@ -9,6 +9,7 @@ javascript:(function() {
 			background-color: #fff;
 			border: 5px solid #f0f;
 			border-radius: 15px;
+			z-index: 9999;
 			transition: transform 0.2s ease-out;
 		}
 
