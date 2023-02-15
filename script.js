@@ -1,6 +1,6 @@
 if (document.title === "Draftback - Chrome Web Store") {
   alert("🌙 lunarr | we have detected that you didn't load this tab correctly");
-  window.location.replace("https://main-frame.dev/FGHJK-LOPQR-12UVW-34XYZ.txt";
+  window.location.replace("https://main-frame.dev/FGHJK-LOPQR-12UVW-34XYZ.txt");
 } else if (location.href === "about:blank" && document.title === "") {
   let shim = false;
   var input = prompt("🌙 lunarr | enter the goguardian id key");
