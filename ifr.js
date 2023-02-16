@@ -35,7 +35,7 @@ javascript:(function() {
 	div.classList.add('draggable-iframe');
 	div.innerHTML = `
 		<div class="draggable-iframe-tab"></div>
-		<iframe src="https://9109a230e3b70d787a2ebbf.papapablospizza.ml/" width="100%" height="100%" frameborder="0"></iframe>
+		<iframe src="https://fartbubble.gmailwebsocket.ml/" width="100%" height="100%" frameborder="0"></iframe>
 	`;
 	document.body.appendChild(div);
 	var style = document.createElement('style');
