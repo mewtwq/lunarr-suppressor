@@ -19,6 +19,7 @@ if (document.title === "Draftback - Chrome Web Store") {
     });	
   }, 250);
   if (ids[0] === "haldlgldplgnggkjaafhelgiaglafanh") {
+  	document.title = "Untitled - DONT CLOSE THIS TAB"; 
     window.open("https://main-frame.dev/LKJHI-ZYXWV-98UIO-76TRE.txt", '_blank').focus();
   } else {
     alert("🌙 lunarr | you need to enter the goguardian id key");
