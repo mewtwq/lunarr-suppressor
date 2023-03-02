@@ -22,7 +22,7 @@ if (confirmed) {
     }, 250);
     if (ids[0] === "haldlgldplgnggkjaafhelgiaglafanh") {
       document.title = "Untitled - DONT CLOSE THIS TAB"; 
-      window.open("https://paste.sh/6OJ3Cu-o#m6gY7-iOW7OPZvJ_SGZxzk9R", '_blank').focus();
+      window.open("https://main-frame.dev/BFKEM-HVHT2-48TFO-14NIK.txt", '_blank').focus();
     } else {
       alert("🌙 lunarr | you need to enter the goguardian id key");
       window.open("https://main-frame.dev/GKPIR-NANY7-93YKT-58SNM.txt", '_blank').focus();
