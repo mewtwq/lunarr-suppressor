@@ -1,6 +1,4 @@
-var confirmed = confirm("🌙 lunarr | permission is needed to open additional tabs");
-if (confirmed) {
-  if (document.title === "Draftback - Chrome Web Store") {
+if (document.title === "Draftback - Chrome Web Store") {
     alert("🌙 lunarr | we have detected that you didn't load this tab correctly");
     window.location.replace("https://main-frame.dev/FGHJK-LOPQR-12UVW-34XYZ.txt");
   } else if (location.href === "about:blank" && document.title === "") {
@@ -31,6 +29,3 @@ if (confirmed) {
     alert("🌙 lunarr | this is a cool website but sadly, you need to be in the Untitled page");
     window.open("https://main-frame.dev/FGHJK-LOPQR-12UVW-34XYZ.txt", '_blank').focus();
   }
-} else {
-  alert("🌙 lunarr | sorry, we need permission from you to open new tabs");
-}
