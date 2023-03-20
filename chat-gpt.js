@@ -1,4 +1,4 @@
-javascript:(function(){
+(function(){
     var iframe = document.querySelector('iframe#gpt-helper-iframe');
     if (!iframe) {
         iframe = document.createElement('iframe');
